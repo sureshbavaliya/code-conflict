@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg001" {
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "example" {
-  name     = "example"
+resource "azurerm_resource_group" "rg0002" {
+  name     = "rg-learning"
   location = "West Europe"
 }
