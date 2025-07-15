@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "rg001" {
-  name     = "rg-code-conflict"
+resource "azurerm_resource_group" "rg-abc" {
+  name     = "rg-rama"
   location = "West Europe"
 }
 
